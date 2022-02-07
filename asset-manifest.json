@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.892e5d7d.chunk.css",
+    "main.js": "/static/js/main.5c1db53a.chunk.js",
+    "main.js.map": "/static/js/main.5c1db53a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d68b298d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d68b298d.js.map",
+    "static/css/2.9cce59f4.chunk.css": "/static/css/2.9cce59f4.chunk.css",
+    "static/js/2.3b4594cf.chunk.js": "/static/js/2.3b4594cf.chunk.js",
+    "static/js/2.3b4594cf.chunk.js.map": "/static/js/2.3b4594cf.chunk.js.map",
+    "static/js/3.1d68ce51.chunk.js": "/static/js/3.1d68ce51.chunk.js",
+    "static/js/3.1d68ce51.chunk.js.map": "/static/js/3.1d68ce51.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9cce59f4.chunk.css.map": "/static/css/2.9cce59f4.chunk.css.map",
+    "static/css/main.892e5d7d.chunk.css.map": "/static/css/main.892e5d7d.chunk.css.map",
+    "static/js/2.3b4594cf.chunk.js.LICENSE.txt": "/static/js/2.3b4594cf.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/student-banner.23190063.jpg",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/loader.gif": "/static/media/loader.c7d9f081.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d68b298d.js",
+    "static/css/2.9cce59f4.chunk.css",
+    "static/js/2.3b4594cf.chunk.js",
+    "static/css/main.892e5d7d.chunk.css",
+    "static/js/main.5c1db53a.chunk.js"
+  ]
+}
